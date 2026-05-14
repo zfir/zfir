@@ -4,11 +4,11 @@
 
 previously named as `zafirskthelifehacker`
 
-<a href="https://twitter.com/zafirsk_">
-  <img align="left" alt="Twitter" width="22px"
-    src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png#gh-light-mode-only" />
-  <img align="left" alt="Twitter" width="22px"
-    src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png#gh-dark-mode-only" />
+<a href="https://blog.zfir.dev">
+  <img align="left" alt="Blog" width="22px"
+    src="https://img.icons8.com/ios-filled/50/000000/blog.png#gh-light-mode-only" />
+  <img align="left" alt="Blog" width="22px"
+    src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png#gh-dark-mode-only" />
 </a>
 
 <a href="https://www.linkedin.com/in/zfir/">
@@ -18,11 +18,11 @@ previously named as `zafirskthelifehacker`
     src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png#gh-dark-mode-only" />
 </a>
 
-<a href="https://blog.zfir.dev">
-  <img align="left" alt="Blog" width="22px"
-    src="https://img.icons8.com/ios-filled/50/000000/blog.png#gh-light-mode-only" />
-  <img align="left" alt="Blog" width="22px"
-    src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png#gh-dark-mode-only" />
+<a href="https://twitter.com/zafirsk_">
+  <img align="left" alt="Twitter" width="22px"
+    src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png#gh-light-mode-only" />
+  <img align="left" alt="Twitter" width="22px"
+    src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png#gh-dark-mode-only" />
 </a>
 
 <br>
