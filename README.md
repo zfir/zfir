@@ -4,6 +4,12 @@
 
 previously named as `zafirskthelifehacker`
 
+software engineer & consultant
+
+msc data science  
+
+ai • mobile • web • developer tooling
+
 <a href="https://blog.zfir.dev">
   <img align="left" alt="Blog" width="22px"
     src="https://img.icons8.com/ios-filled/50/000000/blog.png#gh-light-mode-only" />
