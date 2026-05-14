@@ -5,27 +5,24 @@
 previously named as `zafirskthelifehacker`
 
 <a href="https://twitter.com/zafirsk_">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
-    <img align="left" alt="Zafir's Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
-  </picture>
+  <img align="left" alt="Twitter" width="22px"
+    src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png#gh-light-mode-only" />
+  <img align="left" alt="Twitter" width="22px"
+    src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png#gh-dark-mode-only" />
 </a>
 
 <a href="https://www.linkedin.com/in/zfir/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg">
-    <img align="left" alt="Zafir's Linkedin" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg">
-  </picture>
+  <img align="left" alt="LinkedIn" width="22px"
+    src="https://img.icons8.com/ios-filled/50/000000/linkedin.png#gh-light-mode-only" />
+  <img align="left" alt="LinkedIn" width="22px"
+    src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png#gh-dark-mode-only" />
 </a>
 
 <a href="https://blog.zfir.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg">
-    <img align="left" alt="Zafir's Blog" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg">
-  </picture>
+  <img align="left" alt="Blog" width="22px"
+    src="https://img.icons8.com/ios-filled/50/000000/blog.png#gh-light-mode-only" />
+  <img align="left" alt="Blog" width="22px"
+    src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png#gh-dark-mode-only" />
 </a>
 
 <br>
