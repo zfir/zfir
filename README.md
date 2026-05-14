@@ -5,13 +5,27 @@
 previously named as `zafirskthelifehacker`
 
 <a href="https://twitter.com/zafirsk_">
-  <img align="left" alt="Zafir's Twitter" width="22px" src="https://raw.githubusercontent.com/zfir/zfir/main/assets/twitter.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
+    <img align="left" alt="Zafir's Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
+  </picture>
 </a>
+
 <a href="https://www.linkedin.com/in/zfir/">
-  <img align="left" alt="Zafir's Linkedin" width="22px" src="https://raw.githubusercontent.com/zfir/zfir/main/assets/linkedin.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg">
+    <img align="left" alt="Zafir's Linkedin" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg">
+  </picture>
 </a>
+
 <a href="https://blog.zfir.dev">
-  <img align="left" alt="Zafir's Medium" width="22px" src="https://raw.githubusercontent.com/zfir/zfir/main/assets/medium.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg">
+    <img align="left" alt="Zafir's Blog" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg">
+  </picture>
 </a>
 
 <br>
